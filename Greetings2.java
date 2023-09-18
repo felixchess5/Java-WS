@@ -2,6 +2,7 @@
  * Greetings with string reader
  */
 
+
 public class Greetings2 {
     public static void main(String[] args) {
         EasyReader console = new EasyReader();
