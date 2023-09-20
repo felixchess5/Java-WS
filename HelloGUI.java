@@ -5,7 +5,7 @@ public class HelloGUI extends JFrame {
     public HelloGUI() {
         super("Hello World with GUI"); //Set title
         JFrame c = new JFrame("Hello, World!");
-        c.add(new JLabel());
+        c.add(new JLabel("Hello, World!"));
     }
 
     public static void main(String[] args) {
